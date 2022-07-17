@@ -20,6 +20,12 @@ texture:
   style: black
   showNav: true
   showPicker: false
+  navigation:
+    - title: Resume
+      url: "/my-work"
+    - title: Projects
+      url: "https://github.com/kalpitborkar"
+    
 
   # generate social links in footer
   social_links:
