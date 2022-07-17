@@ -4,8 +4,8 @@ email: kalpitborkar@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Hello, I'm Kalpit Borkar. A sophomore at Indian Institute of Technology Bombay
 show_excerpts: true # set to true to show excerpts on the homepage
-# remote_theme: samarsault/texture
-baseurl: /texture
+remote_theme: samarsault/texture
+# baseurl: /texture
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
