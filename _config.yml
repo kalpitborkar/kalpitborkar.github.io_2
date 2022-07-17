@@ -22,7 +22,7 @@ texture:
   showPicker: false
   navigation:
     - title: Resume
-      url: "/my-work"
+      url: "/resume/Kalpit_Borkar.pdf"
     - title: Projects
       url: "https://github.com/kalpitborkar"
     
