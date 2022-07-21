@@ -24,7 +24,7 @@ texture:
     - title: Resume
       url: "/resume/Kalpit_Borkar.pdf"
     - title: Projects
-      url: "/_posts/projects.md"
+      url: "/_posts/projects.markdown"
     
 
   # generate social links in footer
